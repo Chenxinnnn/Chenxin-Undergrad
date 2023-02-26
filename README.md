@@ -1,2 +1,2 @@
-# Chenxin-Undergrad
-A collection of Chenxin's undergrad class projects
+# Chenxin's Undergrad python  i
+A collection of Chenxin's undergrad CS002 class projects

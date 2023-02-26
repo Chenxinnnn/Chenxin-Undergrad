@@ -1,0 +1,4 @@
+CS0002,Introduction to Computer Programming
+CS0004,Introduction to Web Design and Computer Principles
+CS0060,Database Design and Implementation
+
